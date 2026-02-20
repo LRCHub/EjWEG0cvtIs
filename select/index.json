@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "君にカエル (Maybe)",
+  "base_artist": "&TEAM",
+  "createdAt": "2026-02-20T09:32:14.441842Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君にカエル (Maybe)",
+      "artist": "&TEAM",
+      "has_synced": true,
+      "path": "select/01_君にカエル_(Maybe)_&TEAM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君にカエル(Maybe)",
+      "artist": "&TEAM",
+      "has_synced": false,
+      "path": "select/pl_01_君にカエル(Maybe)_&TEAM.txt"
+    }
+  ]
+}
